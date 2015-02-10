@@ -1,4 +1,4 @@
-= Adventures in Hubpress
+= Adventures in HubPress
 :Author: Russdogg
 :url-hubpress: http://hubpress.io/
 :url-ghpages: http://pages.github.com
