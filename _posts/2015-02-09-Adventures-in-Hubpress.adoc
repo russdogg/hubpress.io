@@ -17,6 +17,16 @@ image::https://russdogg.github.io/images/img-hubpress-monitor.png[bower and npm,
 [source,perl]
 die 'connect: '.$dbh->errstr;
 
+Note that "listing" and "source" are effectively the same, except that source triggers the source filter whereas listing does not.
+
+TODO:
+
+- show sample output
+- literal paragraphs
+- footnotes (in section on admonitions)
+
+
+
 
 
 
