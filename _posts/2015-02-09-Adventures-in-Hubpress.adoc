@@ -2,6 +2,6 @@
 :url-hubpress: http://hubpress.io/
 :url-ghpages: http://pages.github.com
 
-=== Things just got a little easier...
+==== Things just got a little easier...
 
 A little while back Github introduce {url-ghpages}[Github Pages], where you could easily use your free Github account to host HTML pages. Well today I discovered {url-hubpress}[hubpress] which takes that concept a step further and gives you a free blogging system that just uses your free Github hosting.
