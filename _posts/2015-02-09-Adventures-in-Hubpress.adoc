@@ -10,24 +10,7 @@
 
 image::img-hubpress-monitor.png[bower and npm,305,100,role=right] 
 
-*Now there are* defintely other tools out there that let you do something similar, Jeckyl comes to mind. But Hubpress makes it really easy with a nice clean editor and a live preview window. Once you are done with your post, click _Publish_ and you are good to go.
-
-.Optional Title
-
-[source,perl]
-die 'connect: '.$dbh->errstr;
-
-Note that "listing" and "source" are effectively the same, except that source triggers the source filter whereas listing does not.
-
-[source,html]
-----
-<div class="listingblock">
-  <div class="content monospaced">
-    <pre>This is an example of a _listing block_.
-The content inside is rendered as &lt;pre&gt; text.</pre>
-  </div>
-</div>
-----
+*Now there are* defintely other tools out there that let you do something similar, Jeckyl comes to mind. But Hubpress makes it really easy with a nice clean editor and a live preview window. Once you are done with your post, click _Publish_ and you are good to go!
 
 
 
