@@ -2,6 +2,7 @@
 :Author: Russdogg
 :url-hubpress: http://hubpress.io/
 :url-ghpages: http://pages.github.com
+:source-highlighter: highlight.js
 
 ==== Things just got a little easier...
 
@@ -10,6 +11,13 @@
 image::https://russdogg.github.io/images/img-hubpress-monitor.png[bower and npm,305,100,role=left] 
 
 *Now there are* defintely other tools out there that let you do something similar, Jeckyl comes to mind. But Hubpress makes it really easy with a nice clean editor and a live preview window. Once you are done with your post, click _Publish_ and you are good to go.
+
+.code block
+[source,perl]
+----
+dasd
+asda
+----
 
 
 
