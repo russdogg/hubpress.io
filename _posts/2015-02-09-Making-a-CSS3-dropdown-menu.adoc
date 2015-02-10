@@ -1,1 +1,3 @@
-= Making a dropdown menu in CSS3
+= Making a CSS3 dropdown menu
+
+With the advent of Modern browsers and CSS3, there are many thing you can do solely with CSS that previously could only be done with Javascript.
