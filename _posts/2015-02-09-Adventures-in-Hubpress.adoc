@@ -2,7 +2,7 @@
 :Author: Russdogg
 :url-hubpress: http://hubpress.io/
 :url-ghpages: http://pages.github.com
-:source-highlighter: highlight.js
+:source-highlighter: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js
 
 ==== Things just got a little easier...
 
@@ -19,13 +19,15 @@ die 'connect: '.$dbh->errstr;
 
 Note that "listing" and "source" are effectively the same, except that source triggers the source filter whereas listing does not.
 
-TODO:
-
-- show sample output
-- literal paragraphs
-- footnotes (in section on admonitions)
-
-
+[source,html]
+----
+<div class="listingblock">
+  <div class="content monospaced">
+    <pre>This is an example of a _listing block_.
+The content inside is rendered as &lt;pre&gt; text.</pre>
+  </div>
+</div>
+----
 
 
 
