@@ -7,7 +7,7 @@
 
 *A little while back* Github introduce {url-ghpages}[Github Pages], where you could easily use your free Github account to host HTML pages. Well today I discovered {url-hubpress}[Hubpress] which takes that concept a step further and gives you a free blogging system that just uses your free Github hosting. 
 
-image::http://hubpress.io/img/freeze/header.png[bower and npm,305,100,role=right] 
+image::https://russdogg.github.io/images/img-hubpress-monitor.png[bower and npm,305,100,role=right] 
 
 *Now there are* defintely other tools out there that let you do something similar, Jeckyl comes to mind. But Hubpress makes it really easy with a nice clean editor and a live preview window. Once you are done with your post, click _Publish_ and you are good to go.
 
