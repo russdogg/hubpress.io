@@ -427,6 +427,13 @@ margin on the iframe, cause it breaks stuff. */
     margin: 0;
 }
 
+.imageblock.right {
+   float: right;
+}
+
+.imageblock.left {
+   float: left;
+}
 
 /* ==========================================================================
    3. Utilities - These things get used a lot
