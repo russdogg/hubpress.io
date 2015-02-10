@@ -1,2 +1,3 @@
-= test
-== intro to hubpress.io
+= Adventures in Hubpress
+== intro to hubpress.io'
+trying to figure this all out.
