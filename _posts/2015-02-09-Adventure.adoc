@@ -1,9 +1,0 @@
-= Adventure
-:Author: Russdogg
-:url-hubpress: http://hubpress.io/
-:url-ghpages: http://pages.github.com
-:imagesdir: ../images
-
-
-
-
