@@ -1,6 +1,11 @@
 = Making a CSS3 dropdown menu
 :Author: Russdogg
-:url-hubpress: http://hubpress.io/
+:hp-tags:demo, css
+:url-codepen: http://codepen.io/russdogg/pen/RNjmjQ
 :imagesdir: ../images
 
-With the advent of Modern browsers and CSS3, there are many thing you can do solely with CSS that previously could only be done with Javascript.
+With the advent of Modern browsers and CSS3, there are many thing you can do solely with CSS that previously could only be done with Javascript. That includes the generic dropdown menu.
+
+image::img-css-dropdown.jpg[CSS3 Dropdown,480,230] 
+
+Working demo URL on Codepen here: {url-codepen}[http://codepen.io/russdogg/pen/RNjmjQ]
