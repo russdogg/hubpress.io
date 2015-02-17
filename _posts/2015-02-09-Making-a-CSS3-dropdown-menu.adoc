@@ -28,4 +28,6 @@ ul {
 }
 ----
 
-Working demo URL on Codepen here: {url-codepen}[http://codepen.io/russdogg/pen/RNjmjQ]
+TIP: Working demo URL on Codepen here: {url-codepen}[http://codepen.io/russdogg/pen/RNjmjQ]
+
+
