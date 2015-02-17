@@ -28,15 +28,6 @@ ul {
 }
 ----
 
-TIP: Working demo URL on Codepen here: {url-codepen}[http://codepen.io/russdogg/pen/RNjmjQ]
-
-
-TIP: Tip.
-
-IMPORTANT: Important.
-
-WARNING: Warning.
-
-CAUTION: Caution.
+Working demo URL on Codepen here: {url-codepen}[http://codepen.io/russdogg/pen/RNjmjQ]
 
 
