@@ -31,3 +31,12 @@ ul {
 TIP: Working demo URL on Codepen here: {url-codepen}[http://codepen.io/russdogg/pen/RNjmjQ]
 
 
+TIP: Tip.
+Tip	Tip.
+IMPORTANT: Important.
+Important	Important.
+WARNING: Warning.
+Warning	Warning.
+CAUTION: Caution.
+
+
