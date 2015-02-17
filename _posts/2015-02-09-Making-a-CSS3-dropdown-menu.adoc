@@ -8,7 +8,7 @@ With the advent of Modern browsers and CSS3, there are many thing you can do sol
 
 image::img-css-dropdown.jpg[CSS3 Dropdown,480,230]
 
-*HTML:*
+.*HTML Markup:*
 [source, HTML]
 ----
 <ul>
@@ -20,7 +20,7 @@ image::img-css-dropdown.jpg[CSS3 Dropdown,480,230]
 </ul>
 ----
 
-*CSS:*
+.*CSS:*
 [source, CSS]
 ----
 ul {
