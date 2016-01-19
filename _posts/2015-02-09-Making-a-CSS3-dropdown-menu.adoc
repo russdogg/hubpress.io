@@ -13,7 +13,7 @@ Working demo URL on Codepen here: {url-codepen}[http://codepen.io/russdogg/pen/R
 .*HTML Markup:*
 [source, HTML]
 ----
-<div class="nav>
+<div class="nav">
   <ul>
     <li>Home</li>
     <li>About Me</li>
@@ -31,7 +31,7 @@ Working demo URL on Codepen here: {url-codepen}[http://codepen.io/russdogg/pen/R
 ----
 
 .*SCSS:*
-[source, CSS]
+[source, SCSS]
 ----
 $active-btn-color:#ff0051;
 $active-sub-btn-color:#d20935;
