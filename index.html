@@ -10,14 +10,15 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="shortcut icon" href="http://russdogg.github.io/themes/Casper/favicon.ico">
+    <link rel="shortcut icon" href="//russdogg.github.io/themes/Casper/favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="http://russdogg.github.io/themes/Casper/assets/css/screen.css?v=1.0.0" />
+    <link rel="stylesheet" type="text/css" href="//russdogg.github.io/themes/Casper/assets/css/screen.css?v=1.0.0" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 
-    <link rel="canonical" href="http://russdogg.github.io" />
+    <link rel="canonical" href="https://russdogg.github.io" />
     <meta name="generator" content="Ghost ?" />
-    <link rel="alternate" type="application/rss+xml" title="" href="http://russdogg.github.io/rss" />
+    <link rel="alternate" type="application/rss+xml" title="" href="https://russdogg.github.io/rss" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css">
 </head>
 <body class="home-template">
 
@@ -25,7 +26,7 @@
 <header class="main-header " style="background-image: url(http://cdn.twitrcovers.com/wp-content/uploads/2012/09/Station.jpg)">
     <nav class="main-nav overlay clearfix">
         
-        <a class="subscribe-button icon-feed" href="http://russdogg.github.io/rss/">Subscribe</a>
+        <!-- <a class="subscribe-button icon-feed" href="https://russdogg.github.io/rss/">Subscribe</a> -->
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
@@ -46,10 +47,10 @@
     
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="http://russdogg.github.io/2015/02/09/Making-a-CSS3-dropdown-menu.html">Making a CSS3 dropdown menu</a></h2>
+            <h2 class="post-title"><a href="https://russdogg.github.io/2015/02/09/Making-a-CSS3-dropdown-menu.html">Making a CSS3 dropdown menu</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>With the advent of Modern browsers and CSS3, there are many thing you can do solely with CSS that previously could only be done with Javascript. <a class="read-more" href="http://russdogg.github.io/2015/02/09/Making-a-CSS3-dropdown-menu.html">&raquo;</a></p>
+            <p>With the advent of Modern browsers and CSS3, there are many thing you can do solely with CSS that previously could only be done with Javascript. <a class="read-more" href="https://russdogg.github.io/2015/02/09/Making-a-CSS3-dropdown-menu.html">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             
@@ -60,10 +61,10 @@
     </article>
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="http://russdogg.github.io/2015/02/09/Adventures-in-HubPress.html">Adventures in HubPress</a></h2>
+            <h2 class="post-title"><a href="https://russdogg.github.io/2015/02/09/Adventures-in-HubPress.html">Adventures in HubPress</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>Things just got a little easier&#8230;&#8203; A little while back Github introduced Github Pages, where you could easily use your free Github account to <a class="read-more" href="http://russdogg.github.io/2015/02/09/Adventures-in-HubPress.html">&raquo;</a></p>
+            <p>Things just got a little easier&#8230;&#8203; A little while back Github introduced Github Pages, where you could easily use your free Github account to <a class="read-more" href="https://russdogg.github.io/2015/02/09/Adventures-in-HubPress.html">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             
@@ -79,15 +80,27 @@
 
 </main>
 
+
     <footer class="site-footer clearfix">
-        <section class="copyright"><a href="http://russdogg.github.io"></a> &copy; 2015</section>
+        <section class="copyright"><a href="https://russdogg.github.io"></a> &copy; 2016</section>
         <section class="poweredby">Proudly published with <a href="http://hubpress.io">HubPress</a></section>
     </footer>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js?v="></script> 
+      <script type="text/javascript">
+        jQuery( document ).ready(function() {
+          // change date with ago
+          jQuery('ago.ago').each(function(){
+            var element = jQuery(this).parent();
+            element.html( moment(element.text()).fromNow());
+          });
+        });
 
-    <script type="text/javascript" src="http://russdogg.github.io/themes/Casper/assets/js/jquery.fitvids.js?v=1.0.0"></script>
-    <script type="text/javascript" src="http://russdogg.github.io/themes/Casper/assets/js/index.js?v=1.0.0"></script>
+        hljs.initHighlightingOnLoad();      
+      </script>
+
+    <script type="text/javascript" src="//russdogg.github.io/themes/Casper/assets/js/jquery.fitvids.js?v=1.0.0"></script>
+    <script type="text/javascript" src="//russdogg.github.io/themes/Casper/assets/js/index.js?v=1.0.0"></script>
 
 </body>
 </html>
