@@ -12,4 +12,4 @@ image::img-hubpress-monitor.png[bower and npm,305,100,role=right]
 
 *Now there are* defintely other tools out there that let you do something similar, Jeckyl comes to mind. But Hubpress makes it really easy with a nice clean editor and a live preview window. Once you are done with your post, click _Publish_ and you are good to go!
 
-*The biggest caveat* to all this by far, is the writing actual HTML part. People everywhere are trying to solve the issue of having to write real HTML code in a web-based editor, and make it easier for those not that familiar. Markdown is one shortcut language, AsciiDocs is another, and is the flavor of choice by HupPress. 
+*The biggest caveat* to all this by far, is the writing actual HTML part. People everywhere are trying to solve the issue of having to write real HTML code in a web-based editor, and make it easier for those not that familiar. Markdown is one such shortcut language, AsciiDocs is another, and is the flavor of choice by HupPress. 
